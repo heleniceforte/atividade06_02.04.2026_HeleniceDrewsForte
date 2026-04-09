@@ -1,0 +1,16 @@
+body{
+    font-family: Arial;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+button{
+    display: block;
+    margin: 5px 0;
+    padding: 8px;
+    cursor: pointer;
+}
+
+.quiz{
+    max-width: 400px;
+}
